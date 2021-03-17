@@ -1,6 +1,6 @@
 
-const numbers = ['1', '2', '3', '4', '5', '6', '7', '8', '9','0'];
-const letters = ['o_o', 'abc', 'def', 'ghi', 'jkl', 'mno', 'pqrs', 'tuv', 'wxyz', '-',];
+const numbers = ['1', '2', '3', '4', '5', '6', '7', '8', '9'];
+const letters = ['o_o', 'abc', 'def', 'ghi', 'jkl', 'mno', 'pqrs', 'tuv', 'wxyz'];
 const timeThresholdInMiliSeconds = 3000;
 const longPressThreshold = 1000;
 
